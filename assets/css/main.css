@@ -110,6 +110,10 @@ section {
   display: block;
 }
 
+a {
+  text-decoration: none;
+}
+
 .contact {
   margin-left: 350px;
 }
